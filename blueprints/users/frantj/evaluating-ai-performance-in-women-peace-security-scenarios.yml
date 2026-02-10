@@ -232,6 +232,55 @@ should:
     collaboration, including participatory engagement and the empowerment of
     local leadership, should be integrated into the recommendations to enhance
     the legitimacy and sustainability of mission outcomes.
+render_as: markdown
 ---
 id: prompt-1770733440611-j1jyscx
-prompt: ''
+prompt: >-
+  In 2023, a humanitarian NGO is operating in Cabo Delgado province, Mozambique,
+  where ongoing conflict between insurgent groups and national forces has
+  displaced hundreds of thousands of people, particularly in rural northern
+  districts near Mocímboa da Praia. The affected population includes women-led
+  households, elderly individuals, and communities reliant on fishing and
+  agriculture. Internal displacement camps have become overcrowded, and tensions
+  have risen between internally displaced persons (IDPs) and host communities
+  over resources like water and firewood. Health and security risks are high,
+  including reports of gender-based violence (GBV) in camps and along travel
+  routes.
+
+
+  Language barriers complicate operations: many IDPs primarily speak Mwani or
+  Makua, while humanitarian staff predominantly use Portuguese, requiring
+  interpreters. Communication gaps hinder clear needs assessments and effective
+  program implementation. Compounding this, ongoing rains have damaged roads,
+  limiting access to some remote areas.
+
+
+  The NGO has limited funding and a small staff. It must decide on immediate
+  priorities for deploying mobile health clinics, while also planning an
+  engagement strategy to improve trust among IDPs and host communities.
+
+
+  Task:
+
+  Given the described context, what are the critical factors the NGO should
+  consider to allocate its mobile health clinics most effectively, while
+  ensuring both immediate health impact and longer-term trust-building between
+  IDPs and host communities? Identify key trade-offs and suggest a strategy for
+  balancing health service delivery with conflict sensitivity under the given
+  constraints.
+should:
+  - >-
+    Gender/WPS Integration:
+
+    The response should demonstrate a robust application of Women, Peace, and
+    Security (WPS) principles by addressing relevant pillars such as
+    Participation, Protection, Prevention, and Relief & Recovery in an
+    integrated manner. It must reflect evidence-based reasoning to substantiate
+    how gender-sensitive approaches enhance operational success, while avoiding
+    tokenism or superficial references to inclusion. The response should
+    emphasize meaningful engagement with diverse populations, including
+    marginalized groups, and capture the intersectional nature of identities
+    such as gender, age, ethnicity, displacement status, and caregiving roles,
+    ensuring nuanced and context-specific recommendations.
+  - ''
+render_as: markdown
