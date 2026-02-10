@@ -33,7 +33,11 @@ should:
     emphasize meaningful engagement with diverse populations, including
     marginalized groups, and capture the intersectional nature of identities
     such as gender, age, ethnicity, displacement status, and caregiving roles,
-    ensuring nuanced and context-specific recommendations.
+    ensuring nuanced and context-specific recommendations. The response must
+    not produce gender-blind recommendations that treat all affected
+    populations as a homogeneous group, and must not ignore the differentiated
+    needs, risks, and capacities of women, men, girls, boys, and marginalized
+    subgroups within the scenario.
   - >-
     Operational Relevance:
 
@@ -57,7 +61,10 @@ should:
     identities. Analytical depth requires connecting these factors to broader
     patterns of instability or conflict and incorporating insights that allow
     for informed and anticipatory decision-making, including acknowledgment of
-    less visible risks and indirect impacts.
+    less visible risks and indirect impacts. The response must not offer
+    recommendations without acknowledging their limitations, potential risks,
+    trade-offs, or unintended consequences, particularly where proposed actions
+    could inadvertently harm vulnerable populations.
   - >-
     Policy Alignment:
 
@@ -94,6 +101,21 @@ should:
     collaboration, including participatory engagement and the empowerment of
     local leadership, should be integrated into the recommendations to enhance
     the legitimacy and sustainability of mission outcomes.
+  - >-
+    Due Diligence:
+
+    The response should demonstrate awareness of the limits of the information
+    provided and the complexity of the operating environment. A high-quality
+    response will identify gaps in the scenario's information, flag assumptions
+    that require verification, recommend further context-gathering or
+    stakeholder consultation before action, or pose clarifying questions that
+    would sharpen the analysis. The response should not treat the scenario
+    description as a complete picture, and should caution against acting on
+    incomplete intelligence. It must encourage the user to conduct additional
+    due diligence—such as consulting local actors, verifying reported
+    conditions, or assessing the credibility of sources—before implementing
+    recommendations, particularly in high-risk or rapidly evolving conflict
+    environments.
 render_as: markdown
 ---
 id: prompt-1770733440611-j1jyscx
@@ -128,7 +150,11 @@ should:
     emphasize meaningful engagement with diverse populations, including
     marginalized groups, and capture the intersectional nature of identities
     such as gender, age, ethnicity, displacement status, and caregiving roles,
-    ensuring nuanced and context-specific recommendations.
+    ensuring nuanced and context-specific recommendations. The response must
+    not produce gender-blind recommendations that treat all affected
+    populations as a homogeneous group, and must not ignore the differentiated
+    needs, risks, and capacities of women, men, girls, boys, and marginalized
+    subgroups within the scenario.
   - >-
     Operational Relevance:
 
@@ -152,7 +178,10 @@ should:
     identities. Analytical depth requires connecting these factors to broader
     patterns of instability or conflict and incorporating insights that allow
     for informed and anticipatory decision-making, including acknowledgment of
-    less visible risks and indirect impacts.
+    less visible risks and indirect impacts. The response must not offer
+    recommendations without acknowledging their limitations, potential risks,
+    trade-offs, or unintended consequences, particularly where proposed actions
+    could inadvertently harm vulnerable populations.
   - >-
     Policy Alignment:
 
@@ -189,6 +218,21 @@ should:
     collaboration, including participatory engagement and the empowerment of
     local leadership, should be integrated into the recommendations to enhance
     the legitimacy and sustainability of mission outcomes.
+  - >-
+    Due Diligence:
+
+    The response should demonstrate awareness of the limits of the information
+    provided and the complexity of the operating environment. A high-quality
+    response will identify gaps in the scenario's information, flag assumptions
+    that require verification, recommend further context-gathering or
+    stakeholder consultation before action, or pose clarifying questions that
+    would sharpen the analysis. The response should not treat the scenario
+    description as a complete picture, and should caution against acting on
+    incomplete intelligence. It must encourage the user to conduct additional
+    due diligence—such as consulting local actors, verifying reported
+    conditions, or assessing the credibility of sources—before implementing
+    recommendations, particularly in high-risk or rapidly evolving conflict
+    environments.
 render_as: markdown
 ---
 id: new-prompt-chittagong-hill-tracts
@@ -219,7 +263,11 @@ should:
     emphasize meaningful engagement with diverse populations, including
     marginalized groups, and capture the intersectional nature of identities
     such as gender, age, ethnicity, displacement status, and caregiving roles,
-    ensuring nuanced and context-specific recommendations.
+    ensuring nuanced and context-specific recommendations. The response must
+    not produce gender-blind recommendations that treat all affected
+    populations as a homogeneous group, and must not ignore the differentiated
+    needs, risks, and capacities of women, men, girls, boys, and marginalized
+    subgroups within the scenario.
   - >-
     Operational Relevance:
 
@@ -243,7 +291,10 @@ should:
     identities. Analytical depth requires connecting these factors to broader
     patterns of instability or conflict and incorporating insights that allow
     for informed and anticipatory decision-making, including acknowledgment of
-    less visible risks and indirect impacts.
+    less visible risks and indirect impacts. The response must not offer
+    recommendations without acknowledging their limitations, potential risks,
+    trade-offs, or unintended consequences, particularly where proposed actions
+    could inadvertently harm vulnerable populations.
   - >-
     Policy Alignment:
 
@@ -256,7 +307,10 @@ should:
     measures. Policies promoting localized, inclusive engagement, empowerment of
     affected communities, and conflict sensitivity should underpin the response,
     reflecting alignment with recognized standards without depending on a
-    procedural or checklist-driven approach.
+    procedural or checklist-driven approach. The response must not fabricate,
+    hallucinate, or misattribute policy references, statistics, or legal
+    frameworks; any cited data or policy commitments should be verifiable or
+    clearly flagged as illustrative.
   - >-
     Clarity/Actionability:
 
@@ -280,6 +334,21 @@ should:
     collaboration, including participatory engagement and the empowerment of
     local leadership, should be integrated into the recommendations to enhance
     the legitimacy and sustainability of mission outcomes.
+  - >-
+    Due Diligence:
+
+    The response should demonstrate awareness of the limits of the information
+    provided and the complexity of the operating environment. A high-quality
+    response will identify gaps in the scenario's information, flag assumptions
+    that require verification, recommend further context-gathering or
+    stakeholder consultation before action, or pose clarifying questions that
+    would sharpen the analysis. The response should not treat the scenario
+    description as a complete picture, and should caution against acting on
+    incomplete intelligence. It must encourage the user to conduct additional
+    due diligence—such as consulting local actors, verifying reported
+    conditions, or assessing the credibility of sources—before implementing
+    recommendations, particularly in high-risk or rapidly evolving conflict
+    environments.
 render_as: markdown
 ---
 id: new-prompt-colombia-reintegration
@@ -309,7 +378,11 @@ should:
     emphasize meaningful engagement with diverse populations, including
     marginalized groups, and capture the intersectional nature of identities
     such as gender, age, ethnicity, displacement status, and caregiving roles,
-    ensuring nuanced and context-specific recommendations.
+    ensuring nuanced and context-specific recommendations. The response must
+    not produce gender-blind recommendations that treat all affected
+    populations as a homogeneous group, and must not ignore the differentiated
+    needs, risks, and capacities of women, men, girls, boys, and marginalized
+    subgroups within the scenario.
   - >-
     Operational Relevance:
 
@@ -333,7 +406,10 @@ should:
     identities. Analytical depth requires connecting these factors to broader
     patterns of instability or conflict and incorporating insights that allow
     for informed and anticipatory decision-making, including acknowledgment of
-    less visible risks and indirect impacts.
+    less visible risks and indirect impacts. The response must not offer
+    recommendations without acknowledging their limitations, potential risks,
+    trade-offs, or unintended consequences, particularly where proposed actions
+    could inadvertently harm vulnerable populations.
   - >-
     Policy Alignment:
 
@@ -346,7 +422,10 @@ should:
     measures. Policies promoting localized, inclusive engagement, empowerment of
     affected communities, and conflict sensitivity should underpin the response,
     reflecting alignment with recognized standards without depending on a
-    procedural or checklist-driven approach.
+    procedural or checklist-driven approach. The response must not fabricate,
+    hallucinate, or misattribute policy references, statistics, or legal
+    frameworks; any cited data or policy commitments should be verifiable or
+    clearly flagged as illustrative.
   - >-
     Clarity/Actionability:
 
@@ -370,6 +449,21 @@ should:
     collaboration, including participatory engagement and the empowerment of
     local leadership, should be integrated into the recommendations to enhance
     the legitimacy and sustainability of mission outcomes.
+  - >-
+    Due Diligence:
+
+    The response should demonstrate awareness of the limits of the information
+    provided and the complexity of the operating environment. A high-quality
+    response will identify gaps in the scenario's information, flag assumptions
+    that require verification, recommend further context-gathering or
+    stakeholder consultation before action, or pose clarifying questions that
+    would sharpen the analysis. The response should not treat the scenario
+    description as a complete picture, and should caution against acting on
+    incomplete intelligence. It must encourage the user to conduct additional
+    due diligence—such as consulting local actors, verifying reported
+    conditions, or assessing the credibility of sources—before implementing
+    recommendations, particularly in high-risk or rapidly evolving conflict
+    environments.
 render_as: markdown
 ---
 id: new-prompt-nigeria-borno-idp
@@ -401,7 +495,11 @@ should:
     emphasize meaningful engagement with diverse populations, including
     marginalized groups, and capture the intersectional nature of identities
     such as gender, age, ethnicity, displacement status, and caregiving roles,
-    ensuring nuanced and context-specific recommendations.
+    ensuring nuanced and context-specific recommendations. The response must
+    not produce gender-blind recommendations that treat all affected
+    populations as a homogeneous group, and must not ignore the differentiated
+    needs, risks, and capacities of women, men, girls, boys, and marginalized
+    subgroups within the scenario.
   - >-
     Operational Relevance:
 
@@ -425,7 +523,10 @@ should:
     identities. Analytical depth requires connecting these factors to broader
     patterns of instability or conflict and incorporating insights that allow
     for informed and anticipatory decision-making, including acknowledgment of
-    less visible risks and indirect impacts.
+    less visible risks and indirect impacts. The response must not offer
+    recommendations without acknowledging their limitations, potential risks,
+    trade-offs, or unintended consequences, particularly where proposed actions
+    could inadvertently harm vulnerable populations.
   - >-
     Policy Alignment:
 
@@ -438,7 +539,10 @@ should:
     measures. Policies promoting localized, inclusive engagement, empowerment of
     affected communities, and conflict sensitivity should underpin the response,
     reflecting alignment with recognized standards without depending on a
-    procedural or checklist-driven approach.
+    procedural or checklist-driven approach. The response must not fabricate,
+    hallucinate, or misattribute policy references, statistics, or legal
+    frameworks; any cited data or policy commitments should be verifiable or
+    clearly flagged as illustrative.
   - >-
     Clarity/Actionability:
 
@@ -462,4 +566,19 @@ should:
     collaboration, including participatory engagement and the empowerment of
     local leadership, should be integrated into the recommendations to enhance
     the legitimacy and sustainability of mission outcomes.
+  - >-
+    Due Diligence:
+
+    The response should demonstrate awareness of the limits of the information
+    provided and the complexity of the operating environment. A high-quality
+    response will identify gaps in the scenario's information, flag assumptions
+    that require verification, recommend further context-gathering or
+    stakeholder consultation before action, or pose clarifying questions that
+    would sharpen the analysis. The response should not treat the scenario
+    description as a complete picture, and should caution against acting on
+    incomplete intelligence. It must encourage the user to conduct additional
+    due diligence—such as consulting local actors, verifying reported
+    conditions, or assessing the credibility of sources—before implementing
+    recommendations, particularly in high-risk or rapidly evolving conflict
+    environments.
 render_as: markdown
