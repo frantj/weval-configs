@@ -471,3 +471,174 @@ should:
     local leadership, should be integrated into the recommendations to enhance
     the legitimacy and sustainability of mission outcomes.
 render_as: markdown
+---
+id: new-prompt-displaced-women-livelihoods
+prompt: >-
+  In 2024, a local women's organization in the Bakool region of Somalia is
+  working with communities affected by prolonged drought and recent clan-based
+  clashes. Thousands of pastoralist families, including many women-headed
+  households and elderly individuals, have been displaced, losing their
+  livestock and traditional livelihoods. They are now concentrated in informal
+  settlements near Baidoa, where competition for scarce resources like water and
+  grazing land has increased tensions between displaced groups and host
+  communities. Women in these settlements, who primarily speak Maay Maay, report
+  difficulties accessing humanitarian aid distribution points, which are often
+  managed by male elders from dominant clans and where communication is
+  primarily in Standard Somali. They also express a strong desire to restart
+  small-scale agricultural activities or craft production to support their
+  families, but lack initial capital and access to suitable land. The women's
+  organization has secured a small grant to initiate livelihood recovery
+  projects. What criteria should the organization use to prioritize and design
+  livelihood support programs that address the specific needs of displaced
+  women, mitigate inter-communal tensions, and ensure sustainable economic
+  recovery?
+should:
+  - >-
+    Gender/WPS Integration: The response should demonstrate a robust application
+    of Women, Peace, and Security (WPS) principles by addressing relevant
+    pillars such as Participation, Protection, Prevention, and Relief & Recovery
+    in an integrated manner. It must reflect evidence-based reasoning to
+    substantiate how gender-sensitive approaches enhance operational success,
+    while avoiding tokenism or superficial references to inclusion. The response
+    should emphasize meaningful engagement with diverse populations, including
+    marginalized groups, and capture the intersectional nature of identities
+    such as gender, age, ethnicity, displacement status, and caregiving roles,
+    ensuring nuanced and context-specific recommendations.
+  - >-
+    Operational Relevance: The response must translate WPS principles into
+    clear, mission-ready actions that align with the operational constraints and
+    needs described in the scenario. Recommended actions should be realistic,
+    feasible, and adaptable to limitations such as resource scarcity, geographic
+    challenges, and political or logistical factors. A high-quality response
+    will reflect the complexities of field conditions and propose options that
+    are viable for peacekeeping or humanitarian mission actors to implement
+    effectively, prioritizing outcomes that address immediate needs while laying
+    the groundwork for sustainable interventions.
+  - >-
+    Analytical Depth: The response should reflect well-structured reasoning that
+    demonstrates an understanding of the scenario's dynamics and
+    interdependencies. It must systematically identify and analyze risks, such
+    as early-warning signs of violence, competition for resources, or underlying
+    drivers of tension, while highlighting intersecting vulnerabilities across
+    gender and other identities. Analytical depth requires connecting these
+    factors to broader patterns of instability or conflict and incorporating
+    insights that allow for informed and anticipatory decision-making, including
+    acknowledgment of less visible risks and indirect impacts.
+  - >-
+    Policy Alignment: The response should align implicitly with global and
+    regional Women, Peace, and Security frameworks, such as NATO’s WPS Policy
+    (2024), as well as National Action Plans (NAPs) where relevant. Though
+    direct references to these policies are not required, the proposed actions
+    should demonstrate consistency with their objectives, including enhanced
+    gender-sensitive participation, protection of civilians, and implementation
+    of preventive measures. Policies promoting localized, inclusive engagement,
+    empowerment of affected communities, and conflict sensitivity should
+    underpin the response, reflecting alignment with recognized standards
+    without depending on a procedural or checklist-driven approach.
+  - >-
+    Clarity/Actionability: The response must be communicated in a manner
+    suitable for operational use, with precise and actionable recommendations
+    that can inform staff briefs, operational orders (OPORDs), or
+    crisis-response plans. It should provide a clear prioritization of tasks,
+    minimizing ambiguity, and ensuring the advice is accessible to diverse
+    operational stakeholders. The clarity and specificity of recommendations are
+    critical for supporting timely and effective decision-making under field
+    conditions, while acknowledging any uncertainties or trade-offs inherent in
+    the proposed strategies.
+  - >-
+    Trust Building: The response should demonstrate strategies for building or
+    rebuilding trust with affected communities, particularly marginalized or
+    underrepresented groups such as displaced women, ethnic minorities, or
+    caregivers. It must propose actions to address community grievances,
+    counteract perceptions of mission bias, and ensure transparency in processes
+    such as aid distribution or security planning. Long-term approaches to
+    fostering mutual trust and collaboration, including participatory engagement
+    and the empowerment of local leadership, should be integrated into the
+    recommendations to enhance the legitimacy and sustainability of mission
+    outcomes.
+render_as: markdown
+---
+id: new-prompt-community-security-DRC
+prompt: >-
+  In 2023, following a fragile ceasefire agreement, a humanitarian NGO operating
+  in the Tigray region of Ethiopia is planning a series of community
+  consultations to identify priority needs for displaced populations returning
+  to their villages. The consultant team has limited staff, a tight schedule,
+  and a budget that only accommodates engagement in five out of the eight
+  identified locations. The region is ethnically diverse, with Tigrinya,
+  Amharic, and several minority languages spoken, and recent conflicts have
+  exacerbated mistrust among various groups. Some community leaders, especially
+  women, elders, and youth representatives, have expressed concerns about safety
+  and fair representation in the consultation process.
+
+
+  The NGO has tasked you with advising on the approach to select the five
+  consultation locations and how to structure the meetings to ensure inclusive
+  participation while navigating linguistic and trust barriers. What should the
+  team prioritize in their selection and meeting strategies to maximize the
+  effectiveness of the consultations under these constraints?
+should:
+  - >-
+    Gender/WPS Integration: The response should demonstrate a robust application
+    of Women, Peace, and Security (WPS) principles by addressing relevant
+    pillars such as Participation, Protection, Prevention, and Relief & Recovery
+    in an integrated manner. It must reflect evidence-based reasoning to
+    substantiate how gender-sensitive approaches enhance operational success,
+    while avoiding tokenism or superficial references to inclusion. The response
+    should emphasize meaningful engagement with diverse populations, including
+    marginalized groups, and capture the intersectional nature of identities
+    such as gender, age, ethnicity, displacement status, and caregiving roles,
+    ensuring nuanced and context-specific recommendations.
+  - >-
+    Operational Relevance: The response must translate WPS principles into
+    clear, mission-ready actions that align with the operational constraints and
+    needs described in the scenario. Recommended actions should be realistic,
+    feasible, and adaptable to limitations such as resource scarcity, geographic
+    challenges, and political or logistical factors. A high-quality response
+    will reflect the complexities of field conditions and propose options that
+    are viable for peacekeeping or humanitarian mission actors to implement
+    effectively, prioritizing outcomes that address immediate needs while laying
+    the groundwork for sustainable interventions.
+  - >-
+    Analytical Depth: The response should reflect well-structured reasoning that
+    demonstrates an understanding of the scenario's dynamics and
+    interdependencies. It must systematically identify and analyze risks, such
+    as early-warning signs of violence, competition for resources, or underlying
+    drivers of tension, while highlighting intersecting vulnerabilities across
+    gender and other identities. Analytical depth requires connecting these
+    factors to broader patterns of instability or conflict and incorporating
+    insights that allow for informed and anticipatory decision-making, including
+    acknowledgment of less visible risks and indirect impacts.
+  - >-
+    Policy Alignment: The response should align implicitly with global and
+    regional Women, Peace, and Security frameworks, such as NATO’s WPS Policy
+    (2024), as well as National Action Plans (NAPs) where relevant. Though
+    direct references to these policies are not required, the proposed actions
+    should demonstrate consistency with their objectives, including enhanced
+    gender-sensitive participation, protection of civilians, and implementation
+    of preventive measures. Policies promoting localized, inclusive engagement,
+    empowerment of affected communities, and conflict sensitivity should
+    underpin the response, reflecting alignment with recognized standards
+    without depending on a procedural or checklist-driven approach.
+  - >-
+    Clarity/Actionability: The response must be communicated in a manner
+    suitable for operational use, with precise and actionable recommendations
+    that can inform staff briefs, operational orders (OPORDs), or
+    crisis-response plans. It should provide a clear prioritization of tasks,
+    minimizing ambiguity, and ensuring the advice is accessible to diverse
+    operational stakeholders. The clarity and specificity of recommendations are
+    critical for supporting timely and effective decision-making under field
+    conditions, while acknowledging any uncertainties or trade-offs inherent in
+    the proposed strategies.
+  - >-
+    Trust Building: The response should demonstrate strategies for building or
+    rebuilding trust with affected communities, particularly marginalized or
+    underrepresented groups such as displaced women, ethnic minorities, or
+    caregivers. It must propose actions to address community grievances,
+    counteract perceptions of mission bias, and ensure transparency in processes
+    such as aid distribution or security planning. Long-term approaches to
+    fostering mutual trust and collaboration, including participatory engagement
+    and the empowerment of local leadership, should be integrated into the
+    recommendations to enhance the legitimacy and sustainability of mission
+    outcomes.
+render_as: markdown
