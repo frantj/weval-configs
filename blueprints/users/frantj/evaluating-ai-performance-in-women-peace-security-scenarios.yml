@@ -2,162 +2,23 @@ title: Evaluating AI Performance in Women, Peace & Security Scenarios
 ---
 id: prompt-1770733436875
 prompt: >-
-  A United Nations peacekeeping mission in South Sudan is tasked with addressing
-  escalating tensions in the Jonglei region. Recent floods have displaced
-  thousands of people, forcing diverse ethnic groups into shared temporary
-  shelters. Reports indicate that women and girls in these shelters face
-  heightened risks of gender-based violence, including attacks during water
-  collection in areas controlled by armed groups.
+  Context: In 2023, a local women's organization in the eastern Democratic
+  Republic of Congo (DRC) is organizing community consultations to facilitate
+  the inclusion of women in local conflict resolution committees. The region has
+  ongoing interethnic tensions exacerbated by resource disputes, with escalating
+  reports of sexual and gender-based violence targeting displaced women in
+  camps. Many participants are monolingual speakers of Swahili or local
+  indigenous languages, while government officials and NGO staff typically
+  communicate in French. Interpreters are available, but trust in external
+  actors is low.
 
 
-  Local women's organizations have called for increased security presence but
-  have limited access to UN personnel due to the remote location of the shelters
-  and poor road infrastructure. Additionally, language differences among the
-  displaced communities and mission staff have contributed to misunderstandings
-  about security needs and priorities. The rainy season is expected to worsen
-  logistical challenges in the coming weeks, further limiting the capacity for
-  rapid response.
+  Prompt:
 
-
-  What should the mission prioritize to address the protection concerns and
-  mitigate risks of violence in a way that builds trust with affected
-  communities?
-ideal: >-
-  Integrated Recommendations for UN Peacekeeping Mission in Jonglei Region
-
-  The following guidance is structured based on the "Evidence → Commitment → Gap
-  → Action" framework to ensure clear alignment with operational priorities and
-  Women, Peace & Security (WPS) principles.
-
-
-  1. EVIDENCE: Research-Validated Mechanisms
-
-  Research demonstrates that engaging women and local communities in security
-  planning leads to more responsive and legitimate outcomes. Women’s access to
-  decision-makers and their input in reporting risks of gender-based violence
-  (GBV) enhance the effectiveness of protection strategies.
-
-  The presence of female peacekeepers improves trust, encourages reporting of
-  GBV, and can reduce risks of exploitation.
-
-  Quick-response strategies are vital during flooding or similar natural
-  disasters where logistical challenges escalate risks of violence and
-  insecurity. Coordination with local actors, such as women’s organizations,
-  ensures adaptability.
-
-  2. COMMITMENT: Current Policies and Objectives
-
-  South Sudan’s National Action Plan (NAP) on WPS highlights participation,
-  protection, and partnerships with civil society as key goals.
-
-  The UN Mission in South Sudan (UNMISS) has an explicit mandate to protect
-  civilians, promote human rights, and support community resilience.
-
-  Specific UN policies emphasize the deployment of female personnel in
-  protection roles, especially during crises that affect women
-  disproportionately.
-
-  3. GAP: Challenges and Weak Alignment
-
-  Access Issues: Local women’s groups cannot effectively communicate protection
-  priorities due to remoteness and infrastructure limitations.
-
-  Language Barriers: Miscommunication between displaced communities and mission
-  staff is complicating advocacy and situational awareness.
-
-  Local Trust Deficit: A lack of continuous interaction between peacekeepers and
-  affected communities undermines legitimacy and reduces operational
-  effectiveness.
-
-  Inadequate Presence: Insufficient focus on deploying female personnel and
-  mobile team structures limits GBV response capabilities.
-
-  4. ACTION: Field-Ready Recommendations
-
-  Priority 1: Strengthen Community-Oriented Response Mechanisms
-
-
-  Deploy Mobile Protection Teams (MPTs):
-
-  Create mobile teams with female peacekeepers and GBV specialists equipped for
-  surge deployment to shelters.
-
-  Use these teams to map high-risk areas (e.g., water collection points) and
-  co-develop protective measures with local women’s groups.
-
-  Increase Patrol Diversity:
-
-  Embed members of affected communities, especially women leaders, as liaisons
-  in patrol planning and execution.
-
-  Priority 2: Build Communication and Coordination Infrastructure
-
-
-  Use Community-Based Translation Networks:
-
-  Partner with local NGOs to establish translation and mediation roles using
-  multilanguage volunteers from displaced groups to streamline communication.
-
-  Leverage Remote Reporting Tools:
-
-  Introduce simple systems like mobile phones or community radios to allow
-  affected women to report risk areas and incidents without physically meeting
-  UN personnel.
-
-  Priority 3: Invest in Physical and Structural Safeguards
-
-
-  Improve Lighting and Location Security:
-
-  Enhance lighting around shelters and ensure patrols are coordinated at
-  high-risk times, particularly during water collection.
-
-  Partner for Safe Shelter Design:
-
-  Work with women-led organizations to design safer temporary shelters that
-  include protections for women and girls.
-
-  Priority 4: Coordination with Civil Society and Local Leaders
-
-
-  Establish Remote Consultation Mechanisms:
-
-  Set up regular virtual meetings (via satellite connection) with women’s groups
-  to ensure ongoing input on security priorities.
-
-  Train and Empower Local Women Leaders:
-
-  Provide training in GBV risk identification and reporting so these leaders can
-  act as intermediaries.
-
-  Priority 5: Adapt to Logistical Constraints
-
-
-  Pre-Position Resources:
-
-  Stockpile emergency supplies (tents, hygiene kits, lighting) and ensure access
-  to all-terrain vehicles and boats for deployment during heavy rains.
-
-  Expand Female Personnel Deployment:
-
-  Prioritize the deployment of additional female peacekeepers to improve access
-  and trust in remote and marginalized areas.
-
-  Operational Gains
-
-  Proactively addressing GBV risks enhances both women’s safety and the
-  legitimacy of the mission.
-
-  Collaborative planning with affected women strengthens local buy-in and
-  improves intelligence for risk mitigation.
-
-  Holistic measures—including logistical preparedness and GBV-sensitive
-  patrols—support long-term stability and community trust while mitigating
-  immediate risks.
-
-  Implementing these measures ensures that the mission balances swift responses
-  to urgent protection needs with the longer-term goal of empowering women and
-  communities to lead in their own security.
+  Given the goal of increasing women’s participation in conflict resolution
+  committees in eastern DRC, what strategies can the local organization use to
+  balance cultural sensitivities, encourage active engagement of displaced
+  women, and address multilingual communication barriers in the consultations?
 should:
   - >-
     Gender/WPS Integration:
@@ -236,166 +97,21 @@ render_as: markdown
 ---
 id: prompt-1770733440611-j1jyscx
 prompt: >-
-  In 2023, a humanitarian NGO is operating in Cabo Delgado province, Mozambique,
-  where ongoing conflict between insurgent groups and national forces has
-  displaced hundreds of thousands of people, particularly in rural northern
-  districts near Mocímboa da Praia. The affected population includes women-led
-  households, elderly individuals, and communities reliant on fishing and
-  agriculture. Internal displacement camps have become overcrowded, and tensions
-  have risen between internally displaced persons (IDPs) and host communities
-  over resources like water and firewood. Health and security risks are high,
-  including reports of gender-based violence (GBV) in camps and along travel
-  routes.
+  Context: During the severe drought of 2024 in the Bakool region of Somalia, a
+  humanitarian NGO managing food aid distribution faces reports of exploitation
+  and abuse by gatekeepers at distribution points, disproportionately affecting
+  widowed and displaced women. The area has overlapping clan dynamics, with
+  competition for resources complicating equitable access to aid. Somalia’s
+  official language is Somali, but local dialects are dominant, and some village
+  leaders prefer to communicate in Arabic.
 
 
-  Language barriers complicate operations: many IDPs primarily speak Mwani or
-  Makua, while humanitarian staff predominantly use Portuguese, requiring
-  interpreters. Communication gaps hinder clear needs assessments and effective
-  program implementation. Compounding this, ongoing rains have damaged roads,
-  limiting access to some remote areas.
+  Prompt:
 
-
-  The NGO has limited funding and a small staff. It must decide on immediate
-  priorities for deploying mobile health clinics, while also planning an
-  engagement strategy to improve trust among IDPs and host communities.
-
-
-  Task:
-
-  Given the described context, what are the critical factors the NGO should
-  consider to allocate its mobile health clinics most effectively, while
-  ensuring both immediate health impact and longer-term trust-building between
-  IDPs and host communities? Identify key trade-offs and suggest a strategy for
-  balancing health service delivery with conflict sensitivity under the given
-  constraints.
-ideal: >+
-  Using the "Evidence → Commitment → Gap → Action" model, here is the guidance
-  for the NGO to allocate mobile health clinics and develop a conflict-sensitive
-  engagement strategy in Cabo Delgado:
-
-
-  EVIDENCE
-
-  Health Service Equity Reduces Tensions: Inclusive and culturally sensitive
-  health services mitigate perceptions of resource inequity between IDPs and
-  host communities, lowering resentment .
-
-  Gender-Sensitive Programming Yields Better Outcomes: Addressing maternal
-  health, GBV risks, and psychosocial support for displaced women strengthens
-  trust and bonds with host communities .
-
-  Trust-Building Through Participation: Actively involving communities in
-  service planning fosters shared engagement and enhances program legitimacy .
-
-  COMMITMENT
-
-  Mozambique’s NAP (2018-2022) provides a framework to:
-
-
-  Ensure equitable access for IDPs, with a focus on women and girls, to health
-  services during emergencies .
-
-  Deliver health services that integrate GBV prevention and recovery support .
-
-  Include gender-sensitive approaches in humanitarian aid, emphasizing
-  collaboration with local communities and civil society .
-
-  GAP
-
-  Operationalization of Gender-Sensitive Health: Insufficient clarity on how to
-  deploy resources in rural areas like Cabo Delgado despite policy commitments.
-
-  Limited Data and Engagement Processes: Weak or absent mechanisms to integrate
-  host-IDP feedback into service delivery planning.
-
-  Resource Constraints: Alignment between policy ambition and local
-  implementation capacities is tenuous due to limited funding and logistical
-  challenges during rainy seasons.
-
-  ACTIONABLE STRATEGY
-
-  1. Allocate Resources Based on Severity and Equity
-
-  Criteria for Deployment: Use vulnerability mapping to prioritize clinics in
-  areas:
-
-  With high prevalence of preventable diseases (malaria, maternal health
-  issues).
-
-  Close to high-risk zones for GBV (e.g., overcrowded camps, travel routes).
-
-  With existing tensions between IDPs and host communities.
-
-  Temporary Centralized Hubs: Initially focus mobile services near accessible
-  overcrowded camps, but plan phased rotations into neglected rural areas as
-  rains subside.
-
-  2. Integrate a Gender-Sensitive Approach
-
-  GBV Protection Measures: Provide discreet areas in mobile clinics for GBV
-  survivors, with female staff where possible. Essential services should include
-  mental health support tailored to local cultures .
-
-  Culturally Adapted Messaging: Deploy interpreters fluent in Mwani and Makua,
-  leveraging dialogue with local women leaders to refine priorities. This builds
-  trust and ensures IDPs feel seen and included .
-
-  3. Strengthen Host-IDP Collaboration
-
-  Co-Management Committees: Establish small task groups comprising IDPs and host
-  community representatives to jointly oversee healthcare distribution.
-
-  Shared Spaces: Use clinics as "neutral zones" to deliver joint health
-  workshops (e.g., on waterborne disease prevention) to both groups, fostering
-  cooperation on shared concerns .
-
-  4. Address Logistical Challenges
-
-  Weather-Linked Adaptations: Secure all-weather four-wheel-drive vehicles for
-  mobile clinics. Preposition supplies in proximate towns to reduce delays
-  caused by road damage.
-
-  Interim Triage Support: Collaborate with NGOs already facilitating basic
-  services to ensure coverage during periods of inaccessibility.
-
-  5. Monitor and Adapt Dynamically
-
-  Feedback Cycles: Use local language surveys to assess perceptions of service
-  equity and effectiveness from both IDPs and hosts. Monitor trust indicators
-  such as complaints resolved jointly by task groups .
-
-  Progressive Prioritization: Use phased planning to slowly expand reach,
-  balance resources, and minimize the risk of service over-concentration in
-  specific areas.
-
-  6. Engage National Frameworks
-
-  Work with Mozambique's Ministry of Gender, Child and Social Action (MGCAS) to
-  coordinate reporting and operational alignment with national gender-sensitive
-  targets related to health and IDPs .
-
-  KEY TRADE-OFFS
-
-  Service Equity vs. Immediate Needs: Balancing resource allocation between
-  densely populated camps and under-served rural areas will require adaptive
-  sequencing.
-
-  Host-Oriented Trust vs. IDP Integration: Addressing host frustrations without
-  over-prioritizing perceived "outsiders" demands transparent communication
-  about shared benefits from inclusive services.
-
-  Short-Term Efficiency vs. Long-Term Relationships: Focused but extensive
-  community engagement may delay immediate health services, yet is critical to
-  building lasting intergroup trust.
-
-  RECOMMENDATION SUMMARY
-
-  To maximize health impact and social trust, prioritize culturally adapted,
-  gender-sensitive mobile clinics that serve both IDPs and host communities.
-  Integrate co-management and shared training as conflict-reduction strategies
-  while ensuring rigorous logistical planning and national policy alignment for
-  sustainable service delivery.
-
+  How can the humanitarian NGO redesign its aid distribution process in Bakool
+  to minimize risks of exploitation, ensure that widowed and displaced women
+  receive their fair share, and improve accountability mechanisms considering
+  the local sociolinguistic complexities?
 should:
   - >-
     Gender/WPS Integration:
@@ -474,24 +190,20 @@ render_as: markdown
 ---
 id: new-prompt-displaced-women-livelihoods
 prompt: >-
-  In 2024, a local women's organization in the Bakool region of Somalia is
-  working with communities affected by prolonged drought and recent clan-based
-  clashes. Thousands of pastoralist families, including many women-headed
-  households and elderly individuals, have been displaced, losing their
-  livestock and traditional livelihoods. They are now concentrated in informal
-  settlements near Baidoa, where competition for scarce resources like water and
-  grazing land has increased tensions between displaced groups and host
-  communities. Women in these settlements, who primarily speak Maay Maay, report
-  difficulties accessing humanitarian aid distribution points, which are often
-  managed by male elders from dominant clans and where communication is
-  primarily in Standard Somali. They also express a strong desire to restart
-  small-scale agricultural activities or craft production to support their
-  families, but lack initial capital and access to suitable land. The women's
-  organization has secured a small grant to initiate livelihood recovery
-  projects. What criteria should the organization use to prioritize and design
-  livelihood support programs that address the specific needs of displaced
-  women, mitigate inter-communal tensions, and ensure sustainable economic
-  recovery?
+  Context: In 2023, efforts to reintegrate women ex-combatants of the FARC into
+  rural communities in Colombia face resistance from local populations still
+  recovering from the decades-long conflict. There are concerns about
+  stigmatization, security risks to women ex-combatants, and limited access to
+  economic opportunities. The region is linguistically homogenous
+  (Spanish-speaking) but faces geographic access challenges due to poor
+  infrastructure and conflict-affected areas.
+
+
+  Prompt:
+
+  What steps can be taken to facilitate the effective reintegration of women
+  ex-combatants into rural communities while minimizing stigma, ensuring their
+  safety, and providing them equitable access to employment opportunities?
 should:
   - >-
     Gender/WPS Integration: The response should demonstrate a robust application
@@ -559,24 +271,24 @@ should:
 render_as: markdown
 ---
 id: new-prompt-community-security-DRC
-prompt: >-
-  In 2023, following a fragile ceasefire agreement, a humanitarian NGO operating
-  in the Tigray region of Ethiopia is planning a series of community
-  consultations to identify priority needs for displaced populations returning
-  to their villages. The consultant team has limited staff, a tight schedule,
-  and a budget that only accommodates engagement in five out of the eight
-  identified locations. The region is ethnically diverse, with Tigrinya,
-  Amharic, and several minority languages spoken, and recent conflicts have
-  exacerbated mistrust among various groups. Some community leaders, especially
-  women, elders, and youth representatives, have expressed concerns about safety
-  and fair representation in the consultation process.
+prompt: >+
+  Context: In 2024, Northern Nigeria is experiencing heightened tensions
+  following an increase in banditry and attacks by extremist groups. In Borno
+  State, local women’s groups are warning about a possible escalation of
+  violence against internally displaced persons (IDPs), particularly women and
+  girls who face kidnappings during daily tasks like fetching water. The IDP
+  camps host communities from diverse ethnic groups that speak Hausa, Kanuri,
+  and Fulfulde. Security forces stationed nearby have limited resources and have
+  been accused of being unresponsive.
 
 
-  The NGO has tasked you with advising on the approach to select the five
-  consultation locations and how to structure the meetings to ensure inclusive
-  participation while navigating linguistic and trust barriers. What should the
-  team prioritize in their selection and meeting strategies to maximize the
-  effectiveness of the consultations under these constraints?
+  Prompt:
+
+  How can local women’s groups collaborate with security forces and community
+  leaders in Borno State to mitigate the risks of violence against women in IDP
+  camps, and what specific strategies can improve trust and response
+  effectiveness across the region’s ethnolinguistic diversity?
+
 should:
   - >-
     Gender/WPS Integration: The response should demonstrate a robust application
