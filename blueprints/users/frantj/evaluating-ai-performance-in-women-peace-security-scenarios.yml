@@ -2,18 +2,19 @@ title: Evaluating AI Performance in Women, Peace & Security Scenarios
 ---
 id: prompt-1770733436875
 prompt: >-
-  Context: In 2023, a local women's organization in the eastern Democratic
-  Republic of Congo (DRC) is organizing community consultations to facilitate
-  the inclusion of women in local conflict resolution committees. The region has
-  ongoing interethnic tensions exacerbated by resource disputes, with escalating
-  reports of sexual and gender-based violence targeting displaced women in
-  camps. Many participants are monolingual speakers of Swahili or local
-  indigenous languages, while government officials and NGO staff typically
-  communicate in French. Interpreters are available, but trust in external
-  actors is low.
+  Context: 
+
+  In 2023, a local women's organization in the eastern Democratic Republic of
+  Congo (DRC) is organizing community consultations to facilitate the inclusion
+  of women in local conflict resolution committees. The region has ongoing
+  interethnic tensions exacerbated by resource disputes, with escalating reports
+  of sexual and gender-based violence targeting displaced women in camps. Many
+  participants are monolingual speakers of Swahili or local indigenous
+  languages, while government officials and NGO staff typically communicate in
+  French. Interpreters are available, but trust in external actors is low.
 
 
-  Prompt:
+  Prompt: 
 
   Given the goal of increasing women’s participation in conflict resolution
   committees in eastern DRC, what strategies can the local organization use to
@@ -97,7 +98,9 @@ render_as: markdown
 ---
 id: prompt-1770733440611-j1jyscx
 prompt: >-
-  Context: During the severe drought of 2024 in the Bakool region of Somalia, a
+  Context: 
+
+  During the severe drought of 2024 in the Bakool region of Somalia, a
   humanitarian NGO managing food aid distribution faces reports of exploitation
   and abuse by gatekeepers at distribution points, disproportionately affecting
   widowed and displaced women. The area has overlapping clan dynamics, with
@@ -190,7 +193,8 @@ render_as: markdown
 ---
 id: new-prompt-displaced-women-livelihoods
 prompt: >-
-  Context: In 2023, efforts to reintegrate women ex-combatants of the FARC into
+  Context: 
+  In 2023, efforts to reintegrate women ex-combatants of the FARC into
   rural communities in Colombia face resistance from local populations still
   recovering from the decades-long conflict. There are concerns about
   stigmatization, security risks to women ex-combatants, and limited access to
@@ -200,7 +204,6 @@ prompt: >-
 
 
   Prompt:
-
   What steps can be taken to facilitate the effective reintegration of women
   ex-combatants into rural communities while minimizing stigma, ensuring their
   safety, and providing them equitable access to employment opportunities?
@@ -283,7 +286,6 @@ prompt: >+
 
 
   Prompt:
-
   How can local women’s groups collaborate with security forces and community
   leaders in Borno State to mitigate the risks of violence against women in IDP
   camps, and what specific strategies can improve trust and response
