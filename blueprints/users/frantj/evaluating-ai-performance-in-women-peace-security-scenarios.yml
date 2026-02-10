@@ -268,6 +268,134 @@ prompt: >-
   IDPs and host communities? Identify key trade-offs and suggest a strategy for
   balancing health service delivery with conflict sensitivity under the given
   constraints.
+ideal: >+
+  Using the "Evidence → Commitment → Gap → Action" model, here is the guidance
+  for the NGO to allocate mobile health clinics and develop a conflict-sensitive
+  engagement strategy in Cabo Delgado:
+
+
+  EVIDENCE
+
+  Health Service Equity Reduces Tensions: Inclusive and culturally sensitive
+  health services mitigate perceptions of resource inequity between IDPs and
+  host communities, lowering resentment .
+
+  Gender-Sensitive Programming Yields Better Outcomes: Addressing maternal
+  health, GBV risks, and psychosocial support for displaced women strengthens
+  trust and bonds with host communities .
+
+  Trust-Building Through Participation: Actively involving communities in
+  service planning fosters shared engagement and enhances program legitimacy .
+
+  COMMITMENT
+
+  Mozambique’s NAP (2018-2022) provides a framework to:
+
+
+  Ensure equitable access for IDPs, with a focus on women and girls, to health
+  services during emergencies .
+
+  Deliver health services that integrate GBV prevention and recovery support .
+
+  Include gender-sensitive approaches in humanitarian aid, emphasizing
+  collaboration with local communities and civil society .
+
+  GAP
+
+  Operationalization of Gender-Sensitive Health: Insufficient clarity on how to
+  deploy resources in rural areas like Cabo Delgado despite policy commitments.
+
+  Limited Data and Engagement Processes: Weak or absent mechanisms to integrate
+  host-IDP feedback into service delivery planning.
+
+  Resource Constraints: Alignment between policy ambition and local
+  implementation capacities is tenuous due to limited funding and logistical
+  challenges during rainy seasons.
+
+  ACTIONABLE STRATEGY
+
+  1. Allocate Resources Based on Severity and Equity
+
+  Criteria for Deployment: Use vulnerability mapping to prioritize clinics in
+  areas:
+
+  With high prevalence of preventable diseases (malaria, maternal health
+  issues).
+
+  Close to high-risk zones for GBV (e.g., overcrowded camps, travel routes).
+
+  With existing tensions between IDPs and host communities.
+
+  Temporary Centralized Hubs: Initially focus mobile services near accessible
+  overcrowded camps, but plan phased rotations into neglected rural areas as
+  rains subside.
+
+  2. Integrate a Gender-Sensitive Approach
+
+  GBV Protection Measures: Provide discreet areas in mobile clinics for GBV
+  survivors, with female staff where possible. Essential services should include
+  mental health support tailored to local cultures .
+
+  Culturally Adapted Messaging: Deploy interpreters fluent in Mwani and Makua,
+  leveraging dialogue with local women leaders to refine priorities. This builds
+  trust and ensures IDPs feel seen and included .
+
+  3. Strengthen Host-IDP Collaboration
+
+  Co-Management Committees: Establish small task groups comprising IDPs and host
+  community representatives to jointly oversee healthcare distribution.
+
+  Shared Spaces: Use clinics as "neutral zones" to deliver joint health
+  workshops (e.g., on waterborne disease prevention) to both groups, fostering
+  cooperation on shared concerns .
+
+  4. Address Logistical Challenges
+
+  Weather-Linked Adaptations: Secure all-weather four-wheel-drive vehicles for
+  mobile clinics. Preposition supplies in proximate towns to reduce delays
+  caused by road damage.
+
+  Interim Triage Support: Collaborate with NGOs already facilitating basic
+  services to ensure coverage during periods of inaccessibility.
+
+  5. Monitor and Adapt Dynamically
+
+  Feedback Cycles: Use local language surveys to assess perceptions of service
+  equity and effectiveness from both IDPs and hosts. Monitor trust indicators
+  such as complaints resolved jointly by task groups .
+
+  Progressive Prioritization: Use phased planning to slowly expand reach,
+  balance resources, and minimize the risk of service over-concentration in
+  specific areas.
+
+  6. Engage National Frameworks
+
+  Work with Mozambique's Ministry of Gender, Child and Social Action (MGCAS) to
+  coordinate reporting and operational alignment with national gender-sensitive
+  targets related to health and IDPs .
+
+  KEY TRADE-OFFS
+
+  Service Equity vs. Immediate Needs: Balancing resource allocation between
+  densely populated camps and under-served rural areas will require adaptive
+  sequencing.
+
+  Host-Oriented Trust vs. IDP Integration: Addressing host frustrations without
+  over-prioritizing perceived "outsiders" demands transparent communication
+  about shared benefits from inclusive services.
+
+  Short-Term Efficiency vs. Long-Term Relationships: Focused but extensive
+  community engagement may delay immediate health services, yet is critical to
+  building lasting intergroup trust.
+
+  RECOMMENDATION SUMMARY
+
+  To maximize health impact and social trust, prioritize culturally adapted,
+  gender-sensitive mobile clinics that serve both IDPs and host communities.
+  Integrate co-management and shared training as conflict-reduction strategies
+  while ensuring rigorous logistical planning and national policy alignment for
+  sustainable service delivery.
+
 should:
   - >-
     Gender/WPS Integration:
@@ -282,5 +410,64 @@ should:
     marginalized groups, and capture the intersectional nature of identities
     such as gender, age, ethnicity, displacement status, and caregiving roles,
     ensuring nuanced and context-specific recommendations.
-  - ''
+  - >-
+    Operational Relevance:
+
+    The response must translate WPS principles into clear, mission-ready actions
+    that align with the operational constraints and needs described in the
+    scenario. Recommended actions should be realistic, feasible, and adaptable
+    to limitations such as resource scarcity, geographic challenges, and
+    political or logistical factors. A high-quality response will reflect the
+    complexities of field conditions and propose options that are viable for
+    peacekeeping or humanitarian mission actors to implement effectively,
+    prioritizing outcomes that address immediate needs while laying the
+    groundwork for sustainable interventions.
+  - >-
+    Analytical Depth:
+
+    The response should reflect well-structured reasoning that demonstrates an
+    understanding of the scenario's dynamics and interdependencies. It must
+    systematically identify and analyze risks, such as early-warning signs of
+    violence, competition for resources, or underlying drivers of tension, while
+    highlighting intersecting vulnerabilities across gender and other
+    identities. Analytical depth requires connecting these factors to broader
+    patterns of instability or conflict and incorporating insights that allow
+    for informed and anticipatory decision-making, including acknowledgment of
+    less visible risks and indirect impacts.
+  - >-
+    Policy Alignment:
+
+    The response should align implicitly with global and regional Women, Peace,
+    and Security frameworks, such as NATO’s WPS Policy (2024), as well as
+    National Action Plans (NAPs) where relevant. Though direct references to
+    these policies are not required, the proposed actions should demonstrate
+    consistency with their objectives, including enhanced gender-sensitive
+    participation, protection of civilians, and implementation of preventive
+    measures. Policies promoting localized, inclusive engagement, empowerment of
+    affected communities, and conflict sensitivity should underpin the response,
+    reflecting alignment with recognized standards without depending on a
+    procedural or checklist-driven approach.
+  - >-
+    Clarity/Actionability:
+
+    The response must be communicated in a manner suitable for operational use,
+    with precise and actionable recommendations that can inform staff briefs,
+    operational orders (OPORDs), or crisis-response plans. It should provide a
+    clear prioritization of tasks, minimizing ambiguity, and ensuring the advice
+    is accessible to diverse operational stakeholders. The clarity and
+    specificity of recommendations are critical for supporting timely and
+    effective decision-making under field conditions, while acknowledging any
+    uncertainties or trade-offs inherent in the proposed strategies.
+  - >-
+    Trust Building:
+
+    The response should demonstrate strategies for building or rebuilding trust
+    with affected communities, particularly marginalized or underrepresented
+    groups such as displaced women, ethnic minorities, or caregivers. It must
+    propose actions to address community grievances, counteract perceptions of
+    mission bias, and ensure transparency in processes such as aid distribution
+    or security planning. Long-term approaches to fostering mutual trust and
+    collaboration, including participatory engagement and the empowerment of
+    local leadership, should be integrated into the recommendations to enhance
+    the legitimacy and sustainability of mission outcomes.
 render_as: markdown
