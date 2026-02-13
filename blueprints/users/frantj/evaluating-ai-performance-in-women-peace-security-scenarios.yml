@@ -1206,6 +1206,10 @@ prompt: >-
   movement from three villages near the northern border crossing at Grid
   Reference 34T-KM-4821. Local authorities report "tensions" but provide no
   further detail. Road access is limited due to seasonal flooding.
+
+
+  You are the duty officer receiving this report. Provide your initial
+  assessment of the situation and recommend immediate actions.
 should:
   - >-
     Gender/WPS Integration:
